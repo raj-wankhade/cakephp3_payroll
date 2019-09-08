@@ -50,3 +50,15 @@ The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) (v5)
 framework by default. You can, however, replace it with any other library or
 custom styles.
 # cakephp3_payroll
+
+
+This project is created in cakephp 3.8 version.
+
+You can run this code thru cmd by passing filename to the file cmd such as 
+bin/cake file filename.csv
+The file will be downloaded into the root directory of your project
+There is another way to download this file using TestShell such as follows
+bin/cake Test  
+This cmd will download myfile.csv file 
+
+
